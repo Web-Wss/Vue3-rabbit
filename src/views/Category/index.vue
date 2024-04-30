@@ -1,8 +1,7 @@
 <script setup></script>
 
 <template>
-  <!-- 一级路由 -->
-  <RouterView />
+  <div>category</div>
 </template>
 
 <style scoped></style>
